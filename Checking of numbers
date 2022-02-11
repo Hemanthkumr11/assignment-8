@@ -1,0 +1,9 @@
+n=int(input('enter the value of n')
+if(n%2==1):
+  Print('werid')
+elif(n>=2 and n<=6):
+   Print(' not wired')
+elif(n>=6 and n<=20):
+   Print('not werid')
+elif(n>20):
+   Print(' not werid')
